@@ -1,5 +1,5 @@
-FROM wurstmeister/storm:0.9.4
-MAINTAINER Wurstmeister
+FROM gree2/storm:0.9.4
+MAINTAINER gree2
 
 EXPOSE 6700
 EXPOSE 6701
